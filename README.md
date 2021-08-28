@@ -1,9 +1,9 @@
 # Hello-World👋, 
 I'm Manav Desai, 
 a budding Data Science aspirant pursuing Master's degree in the same.
-
+<br/>
 Things that get me going :
-💻 My laptop 
+💻 My laptop <br/>
 🅿 Programming 
 🎧 Music 
 
