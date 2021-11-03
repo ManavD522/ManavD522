@@ -7,14 +7,14 @@ Things that get me going : <br/>
 🅿 Programming <br/>
 🎧 Music <br/>
 <br/>
-Can understand stuff written in :<br/>
+Programming Skills :<br/>
 🟢 C/C++ <br/>
 🔵 Python <br/>
 🔴 Java <br/>
 🟡 HTML <br/>
 🟣 CSS <br/>
 <br/>
-Able to store data in :<br/>
+Stores data in :<br/>
 🦈 MySQL <br/>
 🐘 PostgreSQL <br/>
 <br/>
