@@ -2,19 +2,9 @@
 I'm Manav Desai, 
 a budding Data Science aspirant pursuing Master's degree in the same.
 <br/><br/>
-Things that get me going : <br/>
-💻 My laptop <br/>
-🅿 Programming <br/>
-🎧 Music <br/>
-<br/>
 Programming Skills :<br/>
-🟢 C/C++ <br/>
 🔵 Python <br/>
-🔴 Java <br/>
-🟡 HTML <br/>
-🟣 CSS <br/>
-<br/>
-Stores data in :<br/>
+Manages databases in :<br/>
 🦈 MySQL <br/>
 🐘 PostgreSQL <br/>
 <br/>
