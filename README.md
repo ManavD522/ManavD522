@@ -1,6 +1,6 @@
 # Hello-World👋, 
 I'm Manav Desai, 
-a budding Data Science aspirant pursuing Master's degree in the same.
+a budding Data Scientist/Analyst having Master's degree in the same.
 <br/><br/>
 Programming Skills :<br/>
 🔵 Python <br/>
